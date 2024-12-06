@@ -1,0 +1,4 @@
+/home/matt/CLionProjects/Final_Project/build/CMakeFiles/main.dir
+/home/matt/CLionProjects/Final_Project/build/CMakeFiles/format.dir
+/home/matt/CLionProjects/Final_Project/build/CMakeFiles/edit_cache.dir
+/home/matt/CLionProjects/Final_Project/build/CMakeFiles/rebuild_cache.dir

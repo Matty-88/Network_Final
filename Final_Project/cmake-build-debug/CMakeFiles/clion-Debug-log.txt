@@ -1,0 +1,7 @@
+/home/matt/Desktop/clion-2024.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/matt/CLionProjects/Final_Project -B /home/matt/CLionProjects/Final_Project/cmake-build-debug
+-- Compiler being used: /usr/bin/cc
+COMPILER_NAME: cc
+-- ncurses found: /usr/lib/x86_64-linux-gnu/libncurses.so
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/matt/CLionProjects/Final_Project/cmake-build-debug
